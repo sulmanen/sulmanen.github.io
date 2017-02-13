@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#39;You&#39;re not that bad&#39;</title>
+    <link>http://sulmanen.io/index.xml</link>
+    <description>Recent content on &#39;You&#39;re not that bad&#39;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2017 10:57:21 +0200</lastBuildDate>
+    <atom:link href="http://sulmanen.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Onwards and upwards</title>
+      <link>http://sulmanen.io/2017/02/onwards-and-upwards</link>
+      <pubDate>Mon, 13 Feb 2017 10:57:21 +0200</pubDate>
+      
+      <guid>http://sulmanen.io/2017/02/onwards-and-upwards</guid>
+      <description>&lt;p&gt;Hello World&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
